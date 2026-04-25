@@ -138,6 +138,8 @@ The application provides comprehensive model comparison with metrics including R
 ## Contributors
 
 - **Kanishka Gole** - [GitHub Profile](https://github.com/KanishkaGole)
+- **Jhilik Biswas** 
+- **Disha Gaonkar** 
 
 ## License
 
