@@ -1,4 +1,4 @@
-# AdaniPorts Stock Price Prediction
+# Stock Price Prediction- Machine Learning Regression Models
 
 A comprehensive machine learning application for predicting AdaniPorts stock prices using multiple regression models with an interactive Streamlit dashboard.
 
@@ -51,8 +51,8 @@ This project implements a stock price prediction system for AdaniPorts using var
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KanishkaGole/adaniports-stock-prediction.git
-cd adaniports-stock-prediction
+git clone https://github.com/KanishkaGole/stock-price-prediction-ml-regression.git
+cd stock-price-prediction-ml-regression
 ```
 
 2. Create a virtual environment (recommended):
