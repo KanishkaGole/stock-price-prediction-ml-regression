@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+myenv/
+.venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Data & Models (if they are large and not needed in the image)
+# ADANIPORTS.csv  # Keeping this as it's required by app.py
+model_plots/
+
+# Documentation
+*.docx
+*.doc
+*.pdf
+ML Paper.doc
+SM_Final report.docx
+
+# Logs
+*.log
